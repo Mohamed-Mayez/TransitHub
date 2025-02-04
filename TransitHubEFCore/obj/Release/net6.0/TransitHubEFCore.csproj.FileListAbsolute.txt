@@ -1,0 +1,17 @@
+D:\TransitHub\TransitHub\TransitHubEFCore\bin\Release\net6.0\TransitHubEFCore.deps.json
+D:\TransitHub\TransitHub\TransitHubEFCore\bin\Release\net6.0\TransitHubEFCore.runtimeconfig.json
+D:\TransitHub\TransitHub\TransitHubEFCore\bin\Release\net6.0\TransitHubEFCore.dll
+D:\TransitHub\TransitHub\TransitHubEFCore\bin\Release\net6.0\TransitHubEFCore.pdb
+D:\TransitHub\TransitHub\TransitHubEFCore\bin\Release\net6.0\TransitHubRepo.dll
+D:\TransitHub\TransitHub\TransitHubEFCore\bin\Release\net6.0\TransitHubRepo.pdb
+D:\TransitHub\TransitHub\TransitHubEFCore\obj\Release\net6.0\TransitHubEFCore.csproj.AssemblyReference.cache
+D:\TransitHub\TransitHub\TransitHubEFCore\obj\Release\net6.0\TransitHubEFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\TransitHub\TransitHub\TransitHubEFCore\obj\Release\net6.0\TransitHubEFCore.AssemblyInfoInputs.cache
+D:\TransitHub\TransitHub\TransitHubEFCore\obj\Release\net6.0\TransitHubEFCore.AssemblyInfo.cs
+D:\TransitHub\TransitHub\TransitHubEFCore\obj\Release\net6.0\TransitHubEFCore.csproj.CoreCompileInputs.cache
+D:\TransitHub\TransitHub\TransitHubEFCore\obj\Release\net6.0\TransitHubEFCore.csproj.CopyComplete
+D:\TransitHub\TransitHub\TransitHubEFCore\obj\Release\net6.0\TransitHubEFCore.dll
+D:\TransitHub\TransitHub\TransitHubEFCore\obj\Release\net6.0\refint\TransitHubEFCore.dll
+D:\TransitHub\TransitHub\TransitHubEFCore\obj\Release\net6.0\TransitHubEFCore.pdb
+D:\TransitHub\TransitHub\TransitHubEFCore\obj\Release\net6.0\TransitHubEFCore.genruntimeconfig.cache
+D:\TransitHub\TransitHub\TransitHubEFCore\obj\Release\net6.0\ref\TransitHubEFCore.dll

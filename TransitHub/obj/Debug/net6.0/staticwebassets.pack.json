@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TransitHub\\TransitHub\\TransitHub\\wwwroot\\imgId\\1be4c997-19ae-4c7c-a27e-4f9bce595d56.png",
+      "PackagePath": "staticwebassets\\imgId\\1be4c997-19ae-4c7c-a27e-4f9bce595d56.png"
+    },
+    {
+      "Id": "D:\\TransitHub\\TransitHub\\TransitHub\\wwwroot\\imgId\\1f47be04-c913-4165-b6ce-39b3dfd3b2bc.jpg",
+      "PackagePath": "staticwebassets\\imgId\\1f47be04-c913-4165-b6ce-39b3dfd3b2bc.jpg"
+    },
+    {
+      "Id": "D:\\TransitHub\\TransitHub\\TransitHub\\wwwroot\\imgId\\3e239953-f8bc-450a-a478-eea4e1265746.jpg",
+      "PackagePath": "staticwebassets\\imgId\\3e239953-f8bc-450a-a478-eea4e1265746.jpg"
+    },
+    {
+      "Id": "D:\\TransitHub\\TransitHub\\TransitHub\\wwwroot\\imgId\\4b7db601-d662-4bc9-ad0f-81c3dfef6a98.jpg",
+      "PackagePath": "staticwebassets\\imgId\\4b7db601-d662-4bc9-ad0f-81c3dfef6a98.jpg"
+    },
+    {
+      "Id": "D:\\TransitHub\\TransitHub\\TransitHub\\wwwroot\\imgId\\931412d3-e472-423a-a99b-282b03091e5c.jpg",
+      "PackagePath": "staticwebassets\\imgId\\931412d3-e472-423a-a99b-282b03091e5c.jpg"
+    },
+    {
+      "Id": "D:\\TransitHub\\TransitHub\\TransitHub\\wwwroot\\imgId\\93c38153-90de-401f-a980-6e00beedff44.png",
+      "PackagePath": "staticwebassets\\imgId\\93c38153-90de-401f-a980-6e00beedff44.png"
+    },
+    {
+      "Id": "D:\\TransitHub\\TransitHub\\TransitHub\\wwwroot\\imgId\\958a031a-ac98-4642-8461-2b9e65af30a0.jpg",
+      "PackagePath": "staticwebassets\\imgId\\958a031a-ac98-4642-8461-2b9e65af30a0.jpg"
+    },
+    {
+      "Id": "D:\\TransitHub\\TransitHub\\TransitHub\\wwwroot\\imgId\\9bc7e549-05db-4a66-a204-c57fb613d49c.jpg",
+      "PackagePath": "staticwebassets\\imgId\\9bc7e549-05db-4a66-a204-c57fb613d49c.jpg"
+    },
+    {
+      "Id": "D:\\TransitHub\\TransitHub\\TransitHub\\wwwroot\\imgId\\aa24c04e-545b-4adb-8d21-e7a9048ddfad.jpg",
+      "PackagePath": "staticwebassets\\imgId\\aa24c04e-545b-4adb-8d21-e7a9048ddfad.jpg"
+    },
+    {
+      "Id": "D:\\TransitHub\\TransitHub\\TransitHub\\wwwroot\\imgId\\cf63cf48-2d14-4211-927d-8db65d962860.jpg",
+      "PackagePath": "staticwebassets\\imgId\\cf63cf48-2d14-4211-927d-8db65d962860.jpg"
+    },
+    {
+      "Id": "D:\\TransitHub\\TransitHub\\TransitHub\\wwwroot\\personalImg\\655812fb-579a-43eb-bd2f-4ba2d27464de.jpg",
+      "PackagePath": "staticwebassets\\personalImg\\655812fb-579a-43eb-bd2f-4ba2d27464de.jpg"
+    },
+    {
+      "Id": "D:\\TransitHub\\TransitHub\\TransitHub\\wwwroot\\personalImg\\6a752347-c3d5-40de-bcf6-8fd84c481f30.jpg",
+      "PackagePath": "staticwebassets\\personalImg\\6a752347-c3d5-40de-bcf6-8fd84c481f30.jpg"
+    },
+    {
+      "Id": "D:\\TransitHub\\TransitHub\\TransitHub\\wwwroot\\personalImg\\a633c193-a47d-41d6-a0e3-0a0ba6a74cb5.jpg",
+      "PackagePath": "staticwebassets\\personalImg\\a633c193-a47d-41d6-a0e3-0a0ba6a74cb5.jpg"
+    },
+    {
+      "Id": "D:\\TransitHub\\TransitHub\\TransitHub\\wwwroot\\personalImg\\dd8c0517-d327-4b5a-a03a-73ea6650b41d.jpg",
+      "PackagePath": "staticwebassets\\personalImg\\dd8c0517-d327-4b5a-a03a-73ea6650b41d.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TransitHub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TransitHub.props",
+      "PackagePath": "build\\TransitHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TransitHub.props",
+      "PackagePath": "buildMultiTargeting\\TransitHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TransitHub.props",
+      "PackagePath": "buildTransitive\\TransitHub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

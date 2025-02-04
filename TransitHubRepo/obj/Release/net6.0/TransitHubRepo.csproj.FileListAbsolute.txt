@@ -1,0 +1,14 @@
+D:\TransitHub\TransitHub\TransitHubRepo\bin\Release\net6.0\TransitHubRepo.deps.json
+D:\TransitHub\TransitHub\TransitHubRepo\bin\Release\net6.0\TransitHubRepo.runtimeconfig.json
+D:\TransitHub\TransitHub\TransitHubRepo\bin\Release\net6.0\TransitHubRepo.dll
+D:\TransitHub\TransitHub\TransitHubRepo\bin\Release\net6.0\TransitHubRepo.pdb
+D:\TransitHub\TransitHub\TransitHubRepo\obj\Release\net6.0\TransitHubRepo.csproj.AssemblyReference.cache
+D:\TransitHub\TransitHub\TransitHubRepo\obj\Release\net6.0\TransitHubRepo.GeneratedMSBuildEditorConfig.editorconfig
+D:\TransitHub\TransitHub\TransitHubRepo\obj\Release\net6.0\TransitHubRepo.AssemblyInfoInputs.cache
+D:\TransitHub\TransitHub\TransitHubRepo\obj\Release\net6.0\TransitHubRepo.AssemblyInfo.cs
+D:\TransitHub\TransitHub\TransitHubRepo\obj\Release\net6.0\TransitHubRepo.csproj.CoreCompileInputs.cache
+D:\TransitHub\TransitHub\TransitHubRepo\obj\Release\net6.0\TransitHubRepo.dll
+D:\TransitHub\TransitHub\TransitHubRepo\obj\Release\net6.0\refint\TransitHubRepo.dll
+D:\TransitHub\TransitHub\TransitHubRepo\obj\Release\net6.0\TransitHubRepo.pdb
+D:\TransitHub\TransitHub\TransitHubRepo\obj\Release\net6.0\TransitHubRepo.genruntimeconfig.cache
+D:\TransitHub\TransitHub\TransitHubRepo\obj\Release\net6.0\ref\TransitHubRepo.dll
